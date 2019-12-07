@@ -164,4 +164,4 @@ def main():    # 根据递推公式计算Bezier曲线上的点的位置并用plt
 
 if __name__ == '__main__':
     input_dot()   # 输入特征多边形的六个点
-    main()        # 根据递推公式计算Bezier曲线上的点的位置并用plt显示
+    main()        # 根据递推公式计算Bezier曲线上的点的位置并显示
